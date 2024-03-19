@@ -1,0 +1,27 @@
+{
+  "patientDetails": [
+    
+    {
+      "patientName": "Surya",
+      "phone": "6785456789",
+      "dateofbirth": "",
+      "state": "Kerala",
+      "country": "India",
+      "bloodGroup": "A1B+",
+      "city": "Chennai",
+      "gender": "Male",
+      "id": "aaed"
+    },
+    {
+      "id": "403c",
+      "patientName": "arun",
+      "phone": "34567890098765",
+      "dateofbirth": "",
+      "state": "tamil nadu",
+      "country": "India",
+      "bloodGroup": "B+",
+      "city": "chennai",
+      "gender": "Male"
+    }
+  ]
+}
